@@ -1,10 +1,9 @@
 import type { Metadata } from 'next';
-// import { Inter } from 'next/font/google'
 import { Figtree } from 'next/font/google';
 
 import './globals.css';
 
-const figtree = Figtree({ subsets: ['latin'] });
+const figTree = Figtree({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -18,7 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang='en'>
-      <body className={figtree.className}>{children}</body>
+      <body className={figTree.className}>{children}</body>
     </html>
   );
 }
