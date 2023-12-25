@@ -23,12 +23,12 @@ This is a solution to the [Blog Preview Card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](https://github.com/Syammed2429/blog-preview-card/blob/master/public/assets/desktop-preview.jpg)
+![](./public/assets/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Syammed2429/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://blog-preview-card-one.vercel.app/)
+- Solution URL: [Add solution URL here](https://github.com/Syammed2429/profile-card)
+- Live Site URL: [Add live site URL here](https://profile-card-nine-psi.vercel.app/)
 
 ## My process
 
