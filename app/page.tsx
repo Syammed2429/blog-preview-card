@@ -1,5 +1,5 @@
-import Image from 'next/image';
+import { BlogPreviewCard } from './component/card/blog-preview-card';
 
 export default function Home() {
-  return <div>Tes</div>;
+  return <BlogPreviewCard />;
 }
