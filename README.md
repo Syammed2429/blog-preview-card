@@ -1,10 +1,10 @@
 # Blog Preview card component
 
-![Design preview for the blog preview card component coding challenge](./public/assets/desktop-preview.jpg)
+![Design preview for the blog preview card component coding challenge](https://github.com/Syammed2429/blog-preview-card/blob/master/public/assets/desktop-preview.jpg)
 
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Blog Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## Table of contents
 
@@ -23,12 +23,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./public/assets/desktop-preview.jpg)
+![](https://github.com/Syammed2429/blog-preview-card/blob/master/public/assets/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Syammed2429/profile-card)
-- Live Site URL: [Add live site URL here](https://profile-card-nine-psi.vercel.app/)
+- Solution URL: [Add solution URL here](https://github.com/Syammed2429/blog-preview-card)
+- Live Site URL: [Add live site URL here](https://blog-preview-card-one.vercel.app/)
 
 ## My process
 
