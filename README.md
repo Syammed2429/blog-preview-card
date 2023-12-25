@@ -23,11 +23,11 @@ This is a solution to the [Blog Preview Card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./assets/desktop-preview.jpg)
+![](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Syammed2429/profile-card)
+- Solution URL: [Add solution URL here](https://github.com/Syammed2429/blog-preview-card)
 - Live Site URL: [Add live site URL here](https://profile-card-nine-psi.vercel.app/)
 
 ## My process
