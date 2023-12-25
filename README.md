@@ -23,7 +23,7 @@ This is a solution to the [Blog Preview Card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./public/assets/desktop-preview.jpg)
+![](./assets/desktop-preview.jpg)
 
 ### Links
 
